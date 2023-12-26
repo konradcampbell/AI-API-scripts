@@ -67,3 +67,4 @@ This text serves as detailed instructions from the user to the GPT-4 Vision mode
 
 Note: The code may generate different outputs each time it's run due to the dynamic nature of the GPT-4 model. It's important to review and modify the generated code as needed for your specific requirements.
 
+![[GPT-Vision.png]]
